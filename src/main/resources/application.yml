@@ -1,0 +1,6 @@
+logging:
+  level:
+    io.github.cepr0: debug
+    org.springframework:
+      web: debug
+      cache: debug
